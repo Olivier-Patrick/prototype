@@ -1,0 +1,31 @@
+.viewport {
+  width: -webkit-fill-available;
+  height: -webkit-fill-available;
+  min-height: 980px;
+  min-width: 1080px;
+  display: flex;
+  flex-direction: column;
+  z-index: 1000;
+}
+
+.just {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.slick-alter {
+  width: 1500px;
+  height: 520px;
+  margin: auto;
+}
+
+/* .slick-row {
+  display: flex;
+  flex-direction: row;
+} */
+
+.biodiv-text {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
